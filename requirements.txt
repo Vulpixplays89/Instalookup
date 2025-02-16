@@ -1,0 +1,5 @@
+telebot
+flask
+instaloader
+colorama
+python-cfonts
